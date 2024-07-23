@@ -8,3 +8,8 @@
 This plugin logs commands that the user writes and sends them to the discord webhook (commands that are logged: /l, /login, /reg, /register, /cp, /changepass. /changepassword)
 This is the source code of the JSLogger-1.16.5 plugin. For the plugin to work, insert your discord webhook on line 16.
 
+**Install**
+
+Spigot 1.16.5
+
+
